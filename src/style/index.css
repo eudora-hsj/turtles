@@ -1,0 +1,30 @@
+@import './reset.css';
+@import './notosanstc.css';
+
+:root {
+    --color-primary-1: #AAF5FA;
+    --color-primary-2: #00CAD7;
+    --color-black: #161616;
+    --color-gray-1: #E5EEF0;
+    --color-gray-2: #363841;
+    --color-white-1: #FFF;
+    --color-white-2: rgb(245, 253, 255);
+    --color-swiper-doc-normal: #F5FDFF;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    font-family: 'Noto Sans TC', '微軟正黑體', sans-serif;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
